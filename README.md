@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**akashsen-dev/akashsen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about:
+  - iOS App development (Swift / SwiftUI)
+  - Android App development (Kotlin)
 
-Here are some ideas to get you started:
+- I’m currently working on:
+  - A personal project planned for release in 2027 :)
+  - Freelance projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:
+  - Design Architectures, Principles & Patterns
+  - Everything around iOS / Android
+ 
+- 👯 I’m looking to collaborate on:
+  - Interesting Swift projects & frameworks
+  
+- 📫 How to reach me:
+  - [![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akashsen2207/)
